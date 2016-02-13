@@ -34,7 +34,7 @@ namespace Proyecto.Controllers
             }
             else 
             {
-                 return Json(new {draw = 1,recordsFiltered=data .Count(),recordsTotal=data .Count(),data=data.ToList()}, JsonRequestBehavior.DenyGet);
+                 return Json(new {draw = 0,recordsFiltered=data .Count(),recordsTotal=data .Count(),data=data.ToList()}, JsonRequestBehavior.DenyGet);
 
             }
             }
