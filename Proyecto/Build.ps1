@@ -108,7 +108,7 @@ $msbuild = "C:\Program Files (x86)\MSBuild\12.0\Bin\MSBuild.exe"
 
 $current =  "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
-$projectFilePath = join-path $current "\MoviesSite\MoviesSite.csproj"
+$projectFilePath = join-path $current "\Proyecto\Proyecto.csproj"
 $package_config_path = join-path $current "\Build\tools\config"
 
 if ( -not ( Test-Path ".\Build") )
