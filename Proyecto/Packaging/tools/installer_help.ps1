@@ -1,6 +1,6 @@
 param(
 	$Destination = "C:\inetpub\wwwroot\CineWeb",
-	$AppName = "Default Web Site\CineWeb",	
+	$AppName = "Default Web Site\Proyecto",	
     $UserName = "developer",
     $Password = "P@ssw0rd",
     $Config = $null

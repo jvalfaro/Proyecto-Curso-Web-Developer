@@ -36,3 +36,22 @@ G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\D
 G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
 G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Testing\obj\Debug\Testing.dll
 G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Testing\obj\Debug\Testing.pdb
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\Testing.dll
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\Testing.pdb
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\NSubstitute.dll
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\nunit.framework.dll
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\Productos.BL.dll
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\Productos.DAC.dll
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\Productos.Entities.dll
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\EntityFramework.dll
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\Dapper.dll
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\Productos.BL.pdb
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\Productos.DAC.pdb
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\Productos.Entities.pdb
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\NSubstitute.xml
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\nunit.framework.xml
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\EntityFramework.xml
+C:\Proyecto Curso Web Developer\Proyecto\Testing\bin\Debug\Dapper.xml
+C:\Proyecto Curso Web Developer\Proyecto\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Proyecto Curso Web Developer\Proyecto\Testing\obj\Debug\Testing.dll
+C:\Proyecto Curso Web Developer\Proyecto\Testing\obj\Debug\Testing.pdb
