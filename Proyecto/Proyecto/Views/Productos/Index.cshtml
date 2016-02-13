@@ -74,6 +74,7 @@
                                 <div class="form-group">
                                     <label>Nombre:</label>
                                     @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
                                 </div>
                             </div> <!-- col -->
                         </div> <!-- row -->
@@ -83,6 +84,7 @@
                                 <div class="form-group">
                                     <label>Descripcion:</label>
                                     @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
                                 </div>
                             </div>
                         </div> 
@@ -92,6 +94,7 @@
                                 <div class="form-group">
                                     <label>Marca:</label>
                                     @Html.EditorFor(model => model.Marca, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Marca, "", new { @class = "text-danger" })
                                 </div>
                             </div> 
                         </div> 
@@ -111,7 +114,7 @@
 
     <!-- jQuery 2.1.4 -->
     <script src="../../plugins/jQuery/jquery-2.1.4.min.js"></script>
-    <script src="../../Scripts/Index.js"></script>
+    @*<script src="../../Scripts/Index.js"></script>*@
 
     <script type="text/javascript">
 

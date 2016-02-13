@@ -39,3 +39,18 @@ M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.BL\obj\De
 M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.BL\obj\Debug\Productos.BL.pdb
 G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\nunit.framework.dll
 G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\nunit.framework.xml
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\Productos.BL.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\Productos.BL.pdb
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\nunit.framework.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\Productos.DAC.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\Productos.Entities.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\EntityFramework.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\Dapper.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\Productos.DAC.pdb
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\Productos.Entities.pdb
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\nunit.framework.xml
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\EntityFramework.xml
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\bin\Debug\Dapper.xml
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\obj\Debug\Productos.BL.csprojResolveAssemblyReference.cache
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\obj\Debug\Productos.BL.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.BL\obj\Debug\Productos.BL.pdb

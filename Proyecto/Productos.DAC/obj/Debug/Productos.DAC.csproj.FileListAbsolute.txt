@@ -55,3 +55,19 @@ M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.DAC\obj\D
 M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.DAC\obj\Debug\Productos.DAC.pdb
 G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\nunit.framework.dll
 G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\nunit.framework.xml
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\Productos.DAC.dll.config
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\Productos.DAC.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\Productos.DAC.pdb
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\Dapper.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\EntityFramework.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\nunit.framework.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\Productos.Entities.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\Productos.Entities.pdb
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\Dapper.xml
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\EntityFramework.xml
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\bin\Debug\nunit.framework.xml
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\obj\Debug\Productos.DAC.csprojResolveAssemblyReference.cache
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\obj\Debug\Productos.DAC.dll
+C:\Proyecto Curso Web Developer\Proyecto\Productos.DAC\obj\Debug\Productos.DAC.pdb
