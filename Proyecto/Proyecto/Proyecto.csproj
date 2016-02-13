@@ -299,7 +299,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="JsProductos\Index.js" />
+    <Content Include="Scripts\Index.js" />
     <Content Include="plugins\bootstrap-slider\bootstrap-slider.js" />
     <Content Include="plugins\bootstrap-slider\slider.css" />
     <Content Include="plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.all.js" />
@@ -1068,6 +1068,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="JsProductos\" />
     <Folder Include="plugins\datatables\extensions\AutoFill\css\" />
     <Folder Include="plugins\datatables\extensions\AutoFill\images\" />
     <Folder Include="plugins\datatables\extensions\ColReorder\css\" />

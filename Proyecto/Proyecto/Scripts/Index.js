@@ -1,5 +1,5 @@
 ﻿
-function () {
+$(function () {
     var oTable = $("#example1").DataTable(
                     {
                         "dom": "Bfrtip",
@@ -7,7 +7,7 @@ function () {
                         "serverSide": false, "ajax":
                             {
                                 type: 'POST',
-                                url: "@Url.Action("CargarProductos", "Productos")",
+                                url: "/Productos/CargarProductos",
                         dataType: "json",
                     },
                         "autoWidth": true,
@@ -38,8 +38,8 @@ function () {
 
 
 }
-                       
-("#example1 tbody").on("click", "button", function () {
+                        );
+$("#example1 tbody").on("click", "button", function () {
     var data = oTable.row($(this).parents("tr")).data();
     var url = '@Url.Action("Details", "Reviews", new { id = "_id_" })'
     .replace('_id_',  data.Id);
@@ -52,6 +52,6 @@ function () {
 
 });
 
-function () {
+$(function () {
     $("#myModal").modal('hide');
-};
+});
