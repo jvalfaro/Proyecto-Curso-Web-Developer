@@ -1,0 +1,21 @@
+F:\Proyecto Curso Web Developer\Proyecto\Productos.Entities\bin\Debug\Productos.Entities.dll
+F:\Proyecto Curso Web Developer\Proyecto\Productos.Entities\bin\Debug\Productos.Entities.pdb
+F:\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.csprojResolveAssemblyReference.cache
+F:\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.dll
+F:\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.pdb
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Productos.Entities\bin\Debug\Productos.Entities.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Productos.Entities\bin\Debug\Productos.Entities.pdb
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.pdb
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\bin\Debug\Productos.Entities.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\bin\Debug\Productos.Entities.pdb
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.csprojResolveAssemblyReference.cache
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.pdb
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\bin\Debug\Productos.Entities.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\bin\Debug\Productos.Entities.pdb
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.csprojResolveAssemblyReference.cache
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\obj\Debug\Productos.Entities.pdb
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\bin\Debug\nunit.framework.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Productos.Entities\bin\Debug\nunit.framework.xml

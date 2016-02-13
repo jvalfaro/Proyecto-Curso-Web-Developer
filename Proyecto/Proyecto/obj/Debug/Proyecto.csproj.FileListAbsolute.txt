@@ -1,0 +1,288 @@
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.dll.config
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.pdb
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Antlr3.Runtime.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.SqlServer.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Google.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Owin.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Helpers.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Mvc.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Optimization.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Razor.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Deployment.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Razor.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\WebGrease.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Helpers.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Mvc.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Optimization.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Razor.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Deployment.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Razor.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Antlr3.Runtime.pdb
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.SqlServer.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Google.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+F:\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.dll.config
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.pdb
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Antlr3.Runtime.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\AutoMapper.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.SqlServer.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Google.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Owin.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.BL.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.DAC.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.Entities.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Helpers.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Mvc.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Optimization.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Razor.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Deployment.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Razor.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\WebGrease.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.BL.pdb
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.DAC.pdb
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.Entities.pdb
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\AutoMapper.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Helpers.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Mvc.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Optimization.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Razor.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Deployment.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Razor.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Antlr3.Runtime.pdb
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.SqlServer.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Google.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\WebActivatorEx.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Dapper.dll
+D:\Juan Victor\Proyectos .Net\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Dapper.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.dll.config
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.pdb
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Antlr3.Runtime.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\AutoMapper.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.SqlServer.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Google.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.ServiceLocation.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Configuration.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Mvc.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Owin.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.BL.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.DAC.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.Entities.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Helpers.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Mvc.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Optimization.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Razor.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Deployment.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Razor.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\WebActivatorEx.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\WebGrease.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Dapper.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.BL.pdb
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.DAC.pdb
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.Entities.pdb
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\AutoMapper.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.ServiceLocation.pdb
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.ServiceLocation.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Configuration.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Mvc.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Helpers.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Mvc.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Optimization.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Razor.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Deployment.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Razor.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Antlr3.Runtime.pdb
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.SqlServer.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Google.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Dapper.xml
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.dll.config
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Proyecto.pdb
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Antlr3.Runtime.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\AutoMapper.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.SqlServer.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Core.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Cookies.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Facebook.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Google.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.OAuth.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Twitter.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.ServiceLocation.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Configuration.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Mvc.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Owin.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.BL.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.DAC.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.Entities.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Helpers.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Mvc.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Optimization.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Razor.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Deployment.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Razor.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\WebActivatorEx.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\WebGrease.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Dapper.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.BL.pdb
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.DAC.pdb
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Productos.Entities.pdb
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\AutoMapper.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.ServiceLocation.pdb
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.ServiceLocation.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Configuration.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.Mvc.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Helpers.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Mvc.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Optimization.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.Razor.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Deployment.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\System.Web.WebPages.Razor.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Antlr3.Runtime.pdb
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\EntityFramework.SqlServer.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Core.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Facebook.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Cookies.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.OAuth.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Google.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.Twitter.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\Dapper.xml
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+M:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\nunit.framework.dll
+G:\Clase Web Developer\Proyecto Curso Web Developer\Proyecto\Proyecto\bin\nunit.framework.xml

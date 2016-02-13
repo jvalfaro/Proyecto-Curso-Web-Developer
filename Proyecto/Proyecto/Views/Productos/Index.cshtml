@@ -1,0 +1,180 @@
+﻿@model  Productos.Entities.Producto
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section featured{
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>&nbsp;</h1>
+        <ol class="breadcrumb">
+            <li><a href="@Url.Action( "Index", "Productos")"><i class="fa fa-dashboard"></i> Men&uacute; Principal</a></li>
+            <li class="active">Productos</li>
+        </ol>
+    </section>
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="box">
+                    <div class="box-header">
+                        <h2 class="box-title"><i class="fa fa-bell-o text-aqua"></i>&nbsp; Productos</h2>
+                    </div>
+                    <div class="box-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <table id="example1" class="table table-bordered table-striped dataTable" role="grid" aria-describedby="example1_info" style="width:100%">
+                                    <thead>
+                                        <tr role="row" class="bg-aqua-gradient">
+                                            <th>ID</th>
+                                            <th style="width:400px">Producto</th>
+                                            <th>Descripcion</th>
+                                            <th>Marca</th>
+                                            <th>Detalle</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody></tbody>
+                                </table>
+                            </div><!-- /.col -->
+                        </div><!-- /.row -->
+                    </div><!-- /.box-body -->
+                </div><!-- /.box -->
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </section><!-- /.content -->
+
+
+    <div id="dialog-modal" title="Creacion de Producto">
+
+    </div>
+@using (Html.BeginForm())
+{  
+    
+    @Html.AntiForgeryToken()
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="vertical-alignment-helper">
+            <div class="modal-dialog vertical-align-center">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">
+                            <span aria-hidden="true">&times;</span><span class="sr-only">Producto</span>
+
+                        </button>
+                        <h4 class="modal-title" id="myModalLabel">Producto</h4>
+
+                    </div>
+
+                    <div class="box-body">
+                        <!-- Date range -->
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label>Nombre:</label>
+                                    @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+                                </div>
+                            </div> <!-- col -->
+                        </div> <!-- row -->
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label>Descripcion:</label>
+                                    @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+                                </div>
+                            </div>
+                        </div> 
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label>Marca:</label>
+                                    @Html.EditorFor(model => model.Marca, new { htmlAttributes = new { @class = "form-control" } })
+                                </div>
+                            </div> 
+                        </div> 
+
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Cerrar</button>
+                        <input type="submit" value="Create" class="btn btn-default" />
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+    <!-- jQuery 2.1.4 -->
+    <script src="../../plugins/jQuery/jquery-2.1.4.min.js"></script>
+    @*<script src="../../JsProductos/Index.js"></script>*@
+
+    <script type="text/javascript">
+
+    $(function () {
+        var oTable = $("#example1").DataTable(
+                        {
+                            "dom": "Bfrtip",
+                            "processing": true,
+                            "serverSide": false, "ajax":
+                                {
+                                    type: 'POST',
+                                    url: "@Url.Action("CargarProductos", "Productos")",
+                                    dataType: "json",
+                                },
+                            "autoWidth": true,
+                            "deferred": true,
+                            "scrollX": false,
+                            "scrollCollapse": true,
+                            "select": true,
+                            "columns": [
+                                { "data": "Id" },
+                                { "data": "Title" },
+                                { "data": "Description" },
+                                { "data": "Marca" },
+                                {
+                                    "data": null,
+                                    "defaultContent": "<button class= btn btn-default pull-left>Detalle</button>"
+                                }
+                            ],
+                            "buttons": [
+                                {
+                                    text: 'Nuevo',
+                                    action: function (e, dt, node, config) {
+   
+                                        $("#myModal").modal('show');
+
+                                    }
+                                }
+                            ]
+
+
+                        }
+                            );
+        $("#example1 tbody").on("click", "button", function () {
+           var data = oTable.row($(this).parents("tr")).data();
+           var url = '@Url.Action("Details", "Reviews", new { id = "_id_" })'
+           .replace('_id_',  data.Id);
+
+            window.location.href = url;
+                //'@Url.Action("Details", "Reviews")?id=' + data.Id;
+
+
+        });
+
+    });
+
+    $(function () {
+        $("#myModal").modal('hide');
+    });
+
+    </script>
+
+}
+
+   
+
